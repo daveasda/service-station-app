@@ -1,5 +1,6 @@
 # service-station-app
 Mobile Application for Service Stations and Customers 
+
 Technologies Used : Java | Android Studio | Firebase Firestore| Firebase Authentication | XML Layouts | Gradle
 
 Contribution: Developed a fully functional service station app with features like user registration, profile management, and vehicle maintenance tracking.
